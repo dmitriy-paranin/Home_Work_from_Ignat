@@ -1,0 +1,37 @@
+.message {
+    width: 400px;
+background-color: yellowgreen;
+}
+
+.img {
+    border-radius: 35px;
+    width: 70px;
+}
+
+.textMessage {
+    background-color: #082102;
+    width: 300px;
+
+    border-radius: 7px 7px 7px 0px;
+    color: white;
+    margin-left: auto;
+    margin-right: 5px;
+    /*margin-top: auto;
+    margin-bottom: 5px; ---> не работает */
+}
+
+.name {
+    color: mediumpurple;
+}
+
+.time {
+    opacity: .3;
+    text-align: right;
+    margin-right: 10px;
+}
+
+.textMessage time {
+
+}
+
+
